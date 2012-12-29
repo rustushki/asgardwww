@@ -27,7 +27,6 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 		<li><a href="story.php">Story</a></li>
 		<li><a href="roadmap.php">Roadmap</a></li>
 		<li><a href="links.php">Links</a></li>
-		<li><a href="http://wiki.asgardrpg.org/">Wiki</a>
 		</ul>
 
 		</div>

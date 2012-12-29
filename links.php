@@ -7,7 +7,6 @@
 			<ul>
 				<li><a href="http://launchpad.net/asgard">Launchpad Project Page</a></li>
 				<li><a href="http://launchpad.net/~asgardteam">Asgard Team @ Launchpad</a></li>
-				<li><a href="http://wiki.asgardrpg.org/">Asgard Wiki</a></li>
 			</ul>
 
 		<br />

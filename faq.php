@@ -12,11 +12,14 @@
 <br />
 
 <h2>Is Asgard playable?</h2>
-<p>No--Asgard is still in pre-development.  The development team is working on basic elements like reading and writing map data from a database.  The story-writing team is still hammering out the fundamental structure of the flow of the game.</p>
+<p>Somewhat.  Asgard currently compiles and runs in Linux.  Most of our work has been tested against Ubuntu Linux.  You can move a character around a map by clicking around.  The map pans and scrolls as the character walks.  While the game is runnable and playable, there's no objective or goal to complete.</p>
+
+<h2>What is the state of Asgard's development?</h2>
+<p>Asgard is in active development.  The team is working on gameplay elements now like interactions, inventory, dialog boxes, menus, and items. The story-writing team is still hammering out the fundamental structure of the flow of the game.</p>
 <br />
 
-<h2>When will Asgard be playable?</h2>
-<p>It is not certain when Asgard will be playable.  Currently, the project is pre-alpha, with a lot of effort being spent on designing the software and organizing our limited resources.  Expect an interactive testing/debug client soon.</p>
+<h2>When will Asgard be complete?</h2>
+<p>It is not certain when Asgard will be playable.  Currently, the project is pre-alpha, with a lot of effort being spent on designing the software and organizing our limited resources.  Asgard is playable now, we encourage you to try to compile and run it.  Let us know what you think!</p>
 <br />
 
 <h2>Can I contribute text or media to Asgard?</h2>

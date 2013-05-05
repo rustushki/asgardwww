@@ -3,11 +3,11 @@
 
   <h2>Development Status</h2>
   <p>Asgard is in active development.</p>
-  <p>The next release is scheduled for 2/15/2013.  The functional goals of that
-  release are 'interactions', 'menus' and 'dialogs'.  With these gameplay
-  elements, the gamer will be able to open treasure chests and view an
-  inventory.  There will also be some in-game instructions presented by a
-  dialog.</p>
+
+  <p>The functional goals of the next release are 'interactions', 'menus' and 
+  'dialogs'.  With these gameplay elements, the gamer will be able to open 
+  treasure chests and view an inventory.  There will also be some in-game 
+  instructions presented by a dialog.</p>
 
   <h2>Game Requirements</h2>
   <table border="1" cellspacing="0" style="margin-left: 10%; margin-right: 10%;" >
